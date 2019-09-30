@@ -10,5 +10,7 @@ package one;
  * @author Nilson Lemos
  */
 public class PrimeraClase {
-    
+    public static void main(String[] args) {
+        System.out.println("Hola mundo.");
+    }
 }
